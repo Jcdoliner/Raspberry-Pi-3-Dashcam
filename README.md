@@ -11,7 +11,6 @@ Files are stored into subfolders indicating the moment of the recording. Each vi
 
 Detailed description and documentation for this work can be found in the following PDF: [Jose_Doliner_RaspberryPi3Dashcam.pdf](https://github.com/Jcdoliner/Raspberry-Pi-3-Dashcam/files/10678316/Jose_Doliner_RaspberryPi3Dashcam.pdf)
 
-I have also prepared a youtube video explaining different aspects of the code and algorithm: https://www.youtube.com/watch?v=kKfFATqXj1o
 
 # Requirements
 In order to Successfully integrate this program into your Pi 3 the following requirements must be met:
